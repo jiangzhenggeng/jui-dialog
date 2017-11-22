@@ -1,7 +1,7 @@
 {
-  "name": "vue-jui",
+  "name": "jui-dialog",
   "version": "0.1.2",
-  "description": "vue弹框插件",
+  "description": "jui-dialog",
   "author": "JianZG <2992265870@qq.com>",
   "private": false,
   "scripts": {
